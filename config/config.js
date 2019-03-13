@@ -7,6 +7,9 @@ exports.port = 8000;
 //   This should be kept set to 0.0.0.0 unless you know what you're doing.
 exports.bindaddress = '0.0.0.0';
 
+exports.serverid = 'crystallize';
+exports.servertoken = 'i0FOaERlqzb/';
+
 // workers - the number of networking child processes to spawn
 //   This should be no greater than the number of threads available on your
 //   server's CPU. If you're not sure how many you have, you can check from a
