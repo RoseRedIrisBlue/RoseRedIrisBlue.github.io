@@ -1,0 +1,1708 @@
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Cannot find module '../mods/pointbattle/tiers'
+    at Function.Module._resolveFilename (module.js:536:15)
+    at Function.Module._load (module.js:466:25)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at CommandContext.cost (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\info.js:2134:43)
+    at CommandContext.run (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:420:28)
+    at CommandContext.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:260:19)
+    at Object.Chat.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:1128:17)
+    at User.chat (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1434:9)
+    at Function.socketReceive (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1655:12)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /cost dragalge
+
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+ReferenceError: Db is not defined
+    at Profile.show (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:145:22)
+    at CommandContext.profile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:161:29)
+    at CommandContext.run (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:420:28)
+    at CommandContext.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:260:19)
+    at Object.Chat.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:1128:17)
+    at User.chat (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1434:9)
+    at Function.socketReceive (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1655:12)
+    at Worker.worker.on.data (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:53:11)
+    at emitTwo (events.js:131:20)
+    at Worker.emit (events.js:214:7)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /profile
+
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+ReferenceError: Db is not defined
+    at Profile.show (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:146:21)
+    at CommandContext.profile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:161:29)
+    at CommandContext.run (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:420:28)
+    at CommandContext.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:260:19)
+    at Object.Chat.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:1128:17)
+    at User.chat (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1434:9)
+    at Function.socketReceive (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1655:12)
+    at Worker.worker.on.data (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:53:11)
+    at emitTwo (events.js:131:20)
+    at Worker.emit (events.js:214:7)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /profile
+
+
+ReferenceError: Db is not defined
+    at Profile.show (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:146:21)
+    at CommandContext.profile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:161:29)
+    at CommandContext.run (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:420:28)
+    at CommandContext.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:260:19)
+    at Object.Chat.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:1128:17)
+    at User.chat (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1434:9)
+    at Function.socketReceive (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1655:12)
+    at Worker.worker.on.data (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:53:11)
+    at emitTwo (events.js:131:20)
+    at Worker.emit (events.js:214:7)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /profile
+
+
+ReferenceError: Db is not defined
+    at Profile.show (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:160:21)
+    at CommandContext.profile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:175:29)
+    at CommandContext.run (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:420:28)
+    at CommandContext.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:260:19)
+    at Object.Chat.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:1128:17)
+    at User.chat (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1434:9)
+    at Function.socketReceive (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1655:12)
+    at Worker.worker.on.data (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:53:11)
+    at emitTwo (events.js:131:20)
+    at Worker.emit (events.js:214:7)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /profile
+
+
+TypeError: this.playstyle is not a function
+    at Profile.show (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:161:16)
+    at CommandContext.profile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\profile.js:177:29)
+    at CommandContext.run (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:420:28)
+    at CommandContext.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:260:19)
+    at Object.Chat.parse (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat.js:1128:17)
+    at User.chat (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1434:9)
+    at Function.socketReceive (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\users.js:1655:12)
+    at Worker.worker.on.data (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:53:11)
+    at emitTwo (events.js:131:20)
+    at Worker.emit (events.js:214:7)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /profile
+
+
+Error: Unrecognized rule "rosterPoints"
+    at ModdedDex.validateRule (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\dex.js:846:11)
+    at ModdedDex.getRuleTable (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\dex.js:763:26)
+    at new Validator (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\team-validator.js:21:29)
+    at getValidator (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\team-validator.js:1305:9)
+    at QueryProcessManager [as _query] (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\team-validator-async.js:43:14)
+    at process.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\lib\process-manager.js:327:32)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+
+Additional information:
+  formatid = gen7draftrostercheckerwip
+  team = |lopunnymega|lopunnite||facade|||||||]|ferrothorn|||stealthrock||||,0,,,,|||]|slowbro|||scald||||,0,,,,|||]|arcanine|||fireblast||||,0,,,,|||]|crobat|||bravebird|||||||]|heliolisk||H|hypervoice|||||||]|mudsdale|||earthquake|||||||
+
+
+Error: Worker 1 abruptly died with code 1073807364 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 2 abruptly died with code 3221226091 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 3 abruptly died with code 3221226091 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 4 abruptly died with code 3221226091 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 5 abruptly died with code 3221226091 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\learnsets.js:7465
+exports.BattleLearnsets = BattleLearnsets;
+       ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+  formatid = gen1ou
+  team = |butterfree||1|psychic,leechlife|||||||
+
+
+C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\learnsets.js:7465
+exports.BattleLearnsets = BattleLearnsets;
+       ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+  formatid = gen1ou
+  team = |butterfree|||psychic|||||||]|blastoise|||surf,blizzard,earthquake,counter|||||||
+
+
+C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\learnsets.js:7465
+exports.BattleLearnsets = BattleLearnsets;
+       ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+  formatid = gen1ou
+  team = |alakazam|||bodyslam|||||||]|blastoise|||surf,blizzard,earthquake,counter|||||||
+
+
+C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\learnsets.js:7465
+exports.Learnsets = BattleLearnsets;
+       ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+  formatid = gen1ou
+  team = |alakazam|||bodyslam|||||||]|blastoise|||surf,blizzard,earthquake,counter|||||||
+
+
+TypeError: Cannot read property 'length' of undefined
+    at Battle.onDisableMove (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\moves.js:314:31)
+    at Battle.runEvent (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:906:35)
+    at Battle.nextTurn (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:1599:10)
+    at Battle.go (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3071:8)
+    at Battle.commitDecisions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3151:8)
+    at Battle.checkActions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3185:9)
+    at Battle.choose (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3106:8)
+    at BattleStream._writeLine (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle-stream.js:108:17)
+    at BattleStream._write (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle-stream.js:61:38)
+    at BattleStream.write (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\lib\streams.js:689:15)
+
+Additional information:
+  message = >p2 move 1
+  inputLog = 
+>start {"formatid":"gen1ou","seed":[53557,7241,14232,31658]}
+>player p1 {"name":"KuraiTenshi26","avatar":"266","team":"Butterfree|||none|psychic,leechlife|Serious|252,252,252,252,252,252|||||]Ninetales|||none|psychic,disable|Serious|252,252,252,252,252,252|||||"}
+>player p2 {"name":"testrai24","avatar":"143","team":"Dragonite|||none|thrash|Serious|252,252,252,252,252,252|||||"}
+>p1 move psychic
+>p2 move thrash
+>p1 move leechlife
+>p2 move thrash
+>p1 move psychic
+>p2 move thrash
+>p1 switch 2
+>p1 move disable
+>p2 move thrash
+  log = 
+|player|p1|KuraiTenshi26|266
+|player|p2|testrai24|143
+|teamsize|p1|2
+|teamsize|p2|1
+|gametype|singles
+|gen|1
+|tier|[Gen 1] OU
+|seed|53557,7241,14232,31658
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Butterfree|Butterfree|343/343
+|switch|p2a: Dragonite|Dragonite|385/385
+|turn|1
+|
+|move|p2a: Dragonite|Thrash|p1a: Butterfree
+|-damage|p1a: Butterfree|213/343
+|move|p1a: Butterfree|Psychic|p2a: Dragonite
+|-damage|p2a: Dragonite|280/385
+|
+|upkeep
+|turn|2
+|
+|move|p1a: Butterfree|Leech Life|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|254/385
+|-heal|p1a: Butterfree|239/343|[from] drain|[of] p2a: Dragonite
+|move|p2a: Dragonite|Thrash|p1a: Butterfree|[from]Thrash
+|-damage|p1a: Butterfree|105/343
+|
+|upkeep
+|turn|3
+|
+|move|p2a: Dragonite|Thrash|p1a: Butterfree|[from]Thrash
+|-damage|p1a: Butterfree|0 fnt
+|faint|p1a: Butterfree
+|
+|switch|p1a: Ninetales|Ninetales|349/349
+|turn|4
+|
+|move|p1a: Ninetales|Disable|p2a: Dragonite
+|-start|p2a: Dragonite|Disable|Thrash
+|cant|p2a: Dragonite|Disable|Thrash
+|
+|upkeep
+
+
+TypeError: Cannot read property 'length' of undefined
+    at Battle.onDisableMove (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\moves.js:314:31)
+    at Battle.runEvent (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:906:35)
+    at Battle.nextTurn (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:1599:10)
+    at Battle.go (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3071:8)
+    at Battle.commitDecisions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3151:8)
+    at Battle.checkActions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3185:9)
+    at Battle.choose (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3106:8)
+    at BattleStream._writeLine (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle-stream.js:108:17)
+    at BattleStream._write (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle-stream.js:61:38)
+    at BattleStream.write (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\lib\streams.js:689:15)
+
+Additional information:
+  message = >p1 move 1
+  inputLog = 
+>start {"formatid":"gen1ou","seed":[34740,29540,62066,41704]}
+>player p1 {"name":"testrai24","avatar":"143","team":"Dragonite|||none|thrash,thunderbolt|Serious|252,252,252,252,252,252|||||"}
+>player p2 {"name":"KuraiTenshi26","avatar":"266","team":"Butterfree|||none|psychic,leechlife|Serious|252,252,252,252,252,252|||||]Ninetales|||none|psychic,disable|Serious|252,252,252,252,252,252|||||"}
+>p1 move thrash
+>p2 move psychic
+>p1 move thrash
+>p2 move leechlife
+>p2 switch 2
+>p1 move thrash
+>p2 move disable
+  log = 
+|player|p1|testrai24|143
+|player|p2|KuraiTenshi26|266
+|teamsize|p1|1
+|teamsize|p2|2
+|gametype|singles
+|gen|1
+|tier|[Gen 1] OU
+|seed|34740,29540,62066,41704
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|start
+|switch|p1a: Dragonite|Dragonite|385/385
+|switch|p2a: Butterfree|Butterfree|343/343
+|turn|1
+|
+|move|p1a: Dragonite|Thrash|p2a: Butterfree
+|-damage|p2a: Butterfree|203/343
+|move|p2a: Butterfree|Psychic|p1a: Dragonite
+|-damage|p1a: Dragonite|288/385
+|
+|upkeep
+|turn|2
+|
+|move|p1a: Dragonite|Thrash|p2a: Butterfree|[from]Thrash
+|-crit|p2a: Butterfree
+|-damage|p2a: Butterfree|0 fnt
+|faint|p2a: Butterfree
+|
+|switch|p2a: Ninetales|Ninetales|349/349
+|turn|3
+|
+|move|p2a: Ninetales|Disable|p1a: Dragonite
+|-start|p1a: Dragonite|Disable|Thunderbolt
+|move|p1a: Dragonite|Thrash|p2a: Ninetales|[from]Thrash
+|-damage|p2a: Ninetales|221/349
+|
+|upkeep
+
+
+C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at CommandContext.cost (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\info.js:2134:43)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /cost lopunny-mega
+
+
+C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at CommandContext.cost (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\chat-plugins\info.js:2134:43)
+
+Additional information:
+  user = KuraiTenshi26
+  room = lobby
+  pmTarget = undefined
+  message = /cost zygarde
+
+
+TypeError: Cannot read property 'length' of undefined
+    at Battle.onDisableMove (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\moves.js:314:31)
+    at Battle.runEvent (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:906:35)
+    at Battle.nextTurn (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:1599:10)
+    at Battle.go (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3071:8)
+    at Battle.commitDecisions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3151:8)
+    at Battle.checkActions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3185:9)
+    at Battle.choose (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3106:8)
+    at BattleStream._writeLine (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle-stream.js:108:17)
+    at BattleStream._write (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle-stream.js:61:38)
+    at BattleStream.write (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\lib\streams.js:689:15)
+
+Additional information:
+  message = >p1 move 1
+  inputLog = 
+>start {"formatid":"gen1ou","seed":[134,23273,29880,12806]}
+>player p1 {"name":"KuraiTenshi26","avatar":"169","team":"Dragonite|||none|thrash|Serious|252,252,252,252,252,252|||||]Ninetales|||none|psychic|Serious|252,252,252,252,252,252|||||"}
+>player p2 {"name":"testrai24","avatar":"1","team":"Blastoise|||none|earthquake,hydropump,blizzard,substitute|Serious|252,252,252,252,252,252|||||]Ninetales|||none|psychic,disable|Serious|252,252,252,252,252,252|||||"}
+>p1 team 1, 2
+>p2 team 1, 2
+>p1 move thrash
+>p2 move blizzard
+>p1 move thrash
+>p2 move blizzard
+>p1 switch 2
+>p1 move psychic
+>p2 move earthquake
+>p2 switch 2
+>p1 move psychic
+>p2 move disable
+  log = 
+|player|p1|KuraiTenshi26|169
+|player|p2|testrai24|1
+|teamsize|p1|2
+|teamsize|p2|2
+|gametype|singles
+|gen|1
+|tier|[Gen 1] OU
+|seed|134,23273,29880,12806
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Dragonite|
+|poke|p1|Ninetales|
+|poke|p2|Blastoise|
+|poke|p2|Ninetales|
+|teampreview
+|
+|start
+|switch|p1a: Dragonite|Dragonite|385/385
+|switch|p2a: Blastoise|Blastoise|361/361
+|turn|1
+|
+|move|p1a: Dragonite|Thrash|p2a: Blastoise
+|-damage|p2a: Blastoise|226/361
+|move|p2a: Blastoise|Blizzard|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|22/385
+|
+|upkeep
+|turn|2
+|
+|move|p1a: Dragonite|Thrash|p2a: Blastoise|[from]Thrash
+|-damage|p2a: Blastoise|91/361
+|move|p2a: Blastoise|Blizzard|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|switch|p1a: Ninetales|Ninetales|349/349
+|turn|3
+|
+|move|p1a: Ninetales|Psychic|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|switch|p2a: Ninetales|Ninetales|349/349
+|turn|4
+|
+|move|p2a: Ninetales|Disable|p1a: Ninetales
+|-start|p1a: Ninetales|Disable|Psychic
+|cant|p1a: Ninetales|Disable|Psychic
+|
+|upkeep
+
+
+TypeError: Cannot read property '3' of undefined
+    at Battle.onHit (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\moves.js:592:23)
+    at Battle.singleEvent (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:680:39)
+    at Battle.moveHit (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\scripts.js:563:21)
+    at Battle.tryMoveHit (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\scripts.js:358:19)
+    at Battle.useMove (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\scripts.js:219:17)
+    at Battle.runMove (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\mods\gen1\scripts.js:114:8)
+    at Battle.runAction (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:2840:9)
+    at Battle.go (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3062:9)
+    at Battle.commitDecisions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3151:8)
+    at Battle.checkActions (C:\Users\Administrator\Documents\GitHub\Pokemon-Showdown\sim\battle.js:3185:9)
+
+Additional information:
+  message = >p1 switch 2
+  inputLog = 
+>start {"formatid":"gen1ou","seed":[45068,58786,45472,21944]}
+>player p1 {"name":"KuraiTenshi26","avatar":"169","team":"Starmie|||none|psychic,thunderbolt,recover,thunderwave|Serious|252,252,252,252,252,252|||||]Butterfree|||none|sleeppowder,psychic,leechlife,stunspore|Serious|252,252,252,252,252,252|||||]Nidoqueen|||none|earthquake,softboiled,blizzard,bodyslam|Serious|252,252,252,252,252,252|||||]Tauros|||none|bodyslam,hyperbeam,earthquake,thunderbolt|Serious|252,252,252,252,252,252|||||]Articuno|||none|blizzard,whirlwind,agility,hyperbeam|Serious|252,252,252,252,252,252|||||]Electrode|||none|thunderbolt,thunderwave,explosion,hyperbeam|Serious|252,252,252,252,252,252|||||"}
+>player p2 {"name":"testrai24","avatar":"266","team":"Fossilized|aerodactyl||none|whirlwind,rockslide,reflect,hyperbeam|Serious|252,252,252,252,252,252|||||]Burning Heart|moltres||none|fireblast,whirlwind,agility,mimic|Serious|252,252,252,252,252,252|||||]OG Boi|blastoise||none|surf,earthquake,blizzard,substitute|Serious|252,252,252,252,252,252|||||]Ol' Reliable|exeggutor||none|sleeppowder,psychic,explosion,megadrain|Serious|252,252,252,252,252,252|||||]I need healing|chansey||none|icebeam,thunderwave,softboiled,thunderbolt|Serious|252,252,252,252,252,252|||||]Last Words|tauros||none|bodyslam,hyperbeam,earthquake,thunderbolt|Serious|252,252,252,252,252,252|||||"}
+>p1 team 2, 1, 3, 4, 5, 6
+>p2 team 4, 2, 3, 1, 5, 6
+>p1 move sleeppowder
+>p2 switch 5
+>p1 switch 3
+>p2 move icebeam
+>p1 move bodyslam
+>p2 switch 5
+>p1 switch 3
+>p2 move sleeppowder
+>p1 move stunspore
+>p2 switch 5
+>p1 switch 3
+>p2 move icebeam
+>p1 move blizzard
+>p2 move icebeam
+>p1 move earthquake
+>p2 move icebeam
+>p1 move earthquake
+>p2 switch 5
+>p1 switch 3
+>p2 move sleeppowder
+>p1 move psychic
+>p2 switch 5
+>p1 move psychic
+>p2 move softboiled
+>p1 move psychic
+>p2 switch 2
+>p1 switch 2
+>p2 move mimic
+  log = 
+|player|p1|KuraiTenshi26|169
+|player|p2|testrai24|266
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|1
+|tier|[Gen 1] OU
+|seed|45068,58786,45472,21944
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Starmie|
+|poke|p1|Butterfree|
+|poke|p1|Nidoqueen|
+|poke|p1|Tauros|
+|poke|p1|Articuno|
+|poke|p1|Electrode|
+|poke|p2|Aerodactyl|
+|poke|p2|Moltres|
+|poke|p2|Blastoise|
+|poke|p2|Exeggutor|
+|poke|p2|Chansey|
+|poke|p2|Tauros|
+|teampreview
+|
+|start
+|switch|p1a: Butterfree|Butterfree|343/343
+|switch|p2a: Ol' Reliable|Exeggutor|393/393
+|turn|1
+|
+|switch|p2a: I need healing|Chansey|703/703
+|move|p1a: Butterfree|Sleep Powder|p2a: I need healing
+|-status|p2a: I need healing|slp
+|
+|upkeep
+|turn|2
+|
+|switch|p1a: Nidoqueen|Nidoqueen|383/383
+|cant|p2a: I need healing|slp
+|
+|upkeep
+|turn|3
+|
+|switch|p2a: Ol' Reliable|Exeggutor|393/393
+|move|p1a: Nidoqueen|Body Slam|p2a: Ol' Reliable
+|-damage|p2a: Ol' Reliable|328/393
+|-status|p2a: Ol' Reliable|par
+|
+|upkeep
+|turn|4
+|
+|switch|p1a: Butterfree|Butterfree|343/343
+|cant|p2a: Ol' Reliable|par
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: I need healing|Chansey|703/703 slp
+|move|p1a: Butterfree|Stun Spore|p2a: I need healing
+|-fail|p2a: I need healing
+|
+|upkeep
+|turn|6
+|
+|switch|p1a: Nidoqueen|Nidoqueen|383/383
+|cant|p2a: I need healing|slp
+|
+|upkeep
+|turn|7
+|
+|move|p1a: Nidoqueen|Blizzard|p2a: I need healing
+|-damage|p2a: I need healing|621/703 slp
+|cant|p2a: I need healing|slp
+|
+|upkeep
+|turn|8
+|
+|move|p1a: Nidoqueen|Earthquake|p2a: I need healing
+|-damage|p2a: I need healing|327/703 slp
+|cant|p2a: I need healing|slp
+|
+|upkeep
+|turn|9
+|
+|switch|p2a: Ol' Reliable|Exeggutor|328/393 par
+|move|p1a: Nidoqueen|Earthquake|p2a: Ol' Reliable
+|-resisted|p2a: Ol' Reliable
+|-damage|p2a: Ol' Reliable|270/393 par
+|
+|upkeep
+|turn|10
+|
+|switch|p1a: Butterfree|Butterfree|343/343
+|cant|p2a: Ol' Reliable|par
+|
+|upkeep
+|turn|11
+|
+|switch|p2a: I need healing|Chansey|327/703 slp
+|move|p1a: Butterfree|Psychic|p2a: I need healing
+|-damage|p2a: I need healing|225/703 slp
+|
+|upkeep
+|turn|12
+|
+|move|p1a: Butterfree|Psychic|p2a: I need healing
+|-damage|p2a: I need healing|123/703 slp
+|cant|p2a: I need healing|slp
+|
+|upkeep
+|turn|13
+|
+|switch|p2a: Burning Heart|Moltres|383/383
+|move|p1a: Butterfree|Psychic|p2a: Burning Heart
+|-crit|p2a: Burning Heart
+|-damage|p2a: Burning Heart|199/383
+|
+|upkeep
+|turn|14
+|
+|switch|p1a: Starmie|Starmie|323/323
+|move|p2a: Burning Heart|Mimic|p1a: Starmie
+
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftrosterchecker
+  team = |lopunnymega|lopunnite|||||||||]|latias||||||||||]|milotic||||||||||]|tsareena||||||||||]|keldeo||||||||||]|ninetalesalola||||||||||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftrosterchecker
+  team = |lopunnymega|lopunnite|||||||||]|latias||||||||||]|milotic||||||||||]|tsareena||||||||||]|ninetalesalola||||||||||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftrosterchecker
+  team = |lopunnymega|lopunnite||agility||||,0,,,,|||]|latias|||,bodyslam|||||||]|milotic|||,aquatail|||||||]|tsareena|||,acrobatics|||||||]|ninetalesalola|||agility||||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftrosterchecker
+  team = |jirachi||||||||||]|togekiss||||||||||]|dunsparce||||||||||]|meloetta||||||||||]|ampharosmega|ampharosite|||||||||]|araquanid||||||||||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |jirachi||||||||||]|togekiss||||||||||]|dunsparce||||||||||]|meloetta||||||||||]|ampharosmega|ampharosite|||||||||]|araquanid||||||||||
+
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = aabrars bff|terrakion|rockiumz||swordsdance,rockpolish,stoneedge,closecombat|Adamant|,252,,,4,252|||||]Andy|thundurus|lifeorb||sludgewave,focusblast,agility,thunderbolt|Modest|,,,252,4,252||,0,,,,|||]gotta go fast|scolipede|cobaberry|H|spikes,rockslide,megahorn,poisonjab|Adamant|,252,,,4,252|||||]Andy|whimsicott|leftovers||defog,moonblast,encore,knockoff|Lax|252,4,252,,,|||||]celery dragon|flygon|choicescarf||uturn,dragonclaw,earthquake,superpower|Jolly|,252,,,4,252|||||]rotom-b|rotom|choicescarf||voltswitch,shadowball,willowisp,thunderbolt|Timid|,,,252,4,252||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |tornadustherian|flyiniumz||hurricane,knockoff,uturn,defog|Timid|,,,252,4,252|||||]|rotomwash|iapapaberry||hydropump,voltswitch,willowisp,defog|Bold|248,,204,,,56|||||]|tyrantrum|choiceband|H|headsmash,outrage,earthquake,superpower|Adamant|4,252,,,,252|||||]|klefki|leftovers||spikes,thunderwave,toxic,playrough|Careful|248,,,,252,8|||||]|serperior|leftovers|H|leafstorm,leechseed,substitute,hiddenpowerfire|Timid|,,,252,4,252|||||]|camerupt|cameruptite||fireblast,earthpower,toxic,stealthrock|Modest|128,,,252,,128||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |celesteela|leftovers||leechseed,toxic,protect,heavyslam|Impish|252,4,252,,,|||||]|dragonite|groundiumz|H|dragondance,outrage,extremespeed,earthquake|Adamant|,252,,,4,252|||||]|dugtrio|focussash|1|stealthrock,earthquake,reversal,suckerpunch|Jolly|,252,,,4,252|||||]|manectricmega|manectite|lightningrod|thunderbolt,voltswitch,overheat,hiddenpowerice|Timid|,,,252,4,252||,0,,,,|||]|aggron|choiceband||heavyslam,headsmash,stealthrock,lowkick|Adamant|248,252,,,8,|||||]|xatu|colburberry|H|thunderwave,heatwave,psychic,uturn|Bold|252,,196,,,60|||||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftrosterchecker
+  team = |celesteela|leftovers||leechseed,toxic,protect,heavyslam|Impish|252,4,252,,,|||||]|dragonite|groundiumz|H|dragondance,outrage,extremespeed,earthquake|Adamant|,252,,,4,252|||||]|dugtrio|focussash|1|stealthrock,earthquake,reversal,suckerpunch|Jolly|,252,,,4,252|||||]|manectricmega|manectite|lightningrod|thunderbolt,voltswitch,overheat,hiddenpowerice|Timid|,,,252,4,252||,0,,,,|||]|aggron|choiceband||heavyslam,headsmash,stealthrock,lowkick|Adamant|248,252,,,8,|||||]|xatu|colburberry|H|thunderwave,heatwave,psychic,uturn|Bold|252,,196,,,60|||||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |latiasmega|latiasite||wish,defog,icebeam,thunderbolt|Modest|252,,,252,4,||,0,,,,|||]|heatran|firiumz||flashcannon,fireblast,earthpower,stealthrock|Timid|,,,252,4,252||,0,,,,|||]|tapufini|leftovers||taunt,calmmind,moonblast,hydropump|Modest|220,,,252,,36||,0,,,,|||]|tsareena|leftovers|1|uturn,synthesis,rapidspin,tropkick|Jolly|,252,,,4,252|||||]|raichu|lifeorb|H|thunderbolt,voltswitch,grassknot,nastyplot|Hasty|,252,,4,,252||,0,,,,|||]|hawlucha|mistyseed|1|bulkup,drainpunch,acrobatics,roost|Adamant|184,252,,,,72|||||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |celesteela|leftovers||leechseed,toxic,protect,heavyslam|Impish|252,4,252,,,|||||]|dragonite|flyiniumz|H|dragondance,fly,extremespeed,earthquake|Adamant|,252,,,4,252|||||]|dugtrio|focussash|1|stealthrock,earthquake,reversal,suckerpunch|Jolly|,252,,,4,252|||||]|manectricmega|manectite|lightningrod|thunderbolt,voltswitch,overheat,hiddenpowerice|Timid|,,,252,4,252||,0,,,,|||]|incineroar|iapapaberry|H|fakeout,uturn,knockoff,flareblitz|Adamant|252,252,,,4,|||||]|xatu|colburberry|H|thunderwave,heatwave,psychic,uturn|Bold|252,,196,,,60|||||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |araquanid|mysticwater||stickyweb,liquidation,reflect,toxic|Adamant|252,252,,,4,|||||]|excadrill|assaultvest|H|earthquake,ironhead,rockslide,rapidspin|Jolly|,252,,,4,252|||||]|marowakalola|thickclub|1|flareblitz,shadowbone,brickbreak,stealthrock|Adamant|252,252,4,,,|||||]|swellow|flameorb||facade,uturn,quickattack,tailwind|Jolly|,252,4,,,252|||||]|eelektross|assaultvest||knockoff,voltswitch,gigadrain,flamethrower|Modest|252,,,252,4,|||||]|umbreon|leftovers||moonlight,foulplay,taunt,toxic|Impish|252,,252,,4,||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |moltres|choicescarf||hurricane,uturn,flamethrower,toxic|Timid|,,,252,4,252|||||]|gyaradosmega|gyaradosite|intimidate|dragondance,crunch,earthquake,taunt|Jolly|12,252,,,,244|||||]|landorustherian|yacheberry||stoneedge,rockpolish,earthquake,swordsdance|Jolly|,252,,,,248|||||]|seismitoad|leftovers|H|earthquake,protect,stealthrock,icepunch|Jolly|252,32,,,,224|||||]|scizor|leftovers|1|uturn,defog,roost,bulletpunch|Impish|252,4,252,,,|||||]|haunter|colburberry||shadowball,hiddenpowerfighting,dazzlinggleam,taunt|Timid|,,,252,4,252||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |moltres|choicescarf||hurricane,uturn,flamethrower,toxic|Timid|,,,252,4,252|||||]|gyaradosmega|gyaradosite|intimidate|dragondance,crunch,earthquake,taunt|Jolly|12,252,,,,244|||||]|landorustherian|yacheberry||stoneedge,rockpolish,earthquake,swordsdance|Jolly|,252,,,,248|||||]|seismitoad|leftovers|H|earthquake,protect,stealthrock,icepunch|Jolly|252,32,,,,224|||||]|scizor|leftovers|1|uturn,defog,roost,bulletpunch|Impish|252,4,252,,,|||||]|haunter|colburberry||shadowball,hiddenpowerfighting,dazzlinggleam,taunt|Timid|,,,252,4,252||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftrosterchecker
+  team = Tapu 🅱️ae🅱️ae|tapulele|fairiumz|H|moonblast,thunderbolt,calmmind,hiddenpowerfire|Modest|68,,,252,8,||,0,,,,|S||]1/2|sharpedo|sharpedonite|H|liquidation,crunch,icefang,protect|Adamant|,252,,,4,252|||S||]Hexy Lady|zygarde|yacheberry||thousandarrows,outrage,dragondance|Adamant|252,252,,,4,|||S||]S T I C C Y|galvantula|lifeorb||thunder,stickyweb,bugbuzz,energyball|Timid|,,,252,4,252||,0,,,,|S||]Pingu|empoleon|leftovers||scald,stealthrock,toxic,hiddenpowerfire|Bold|252,,252,4,,||,0,,,,|S||]I'm Batman|crobat|skyplate|H|bravebird,uturn,toxic,roost|Adamant|252,252,,,4,|||S||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = Tapu 🅱️ae🅱️ae|tapulele|fairiumz|H|moonblast,thunderbolt,calmmind,hiddenpowerfire|Modest|68,,,252,8,||,0,,,,|S||]1/2|sharpedo|sharpedonite|H|liquidation,crunch,icefang,protect|Adamant|,252,,,4,252|||S||]Hexy Lady|zygarde|yacheberry||thousandarrows,outrage,dragondance|Adamant|252,252,,,4,|||S||]S T I C C Y|galvantula|lifeorb||thunder,stickyweb,bugbuzz,energyball|Timid|,,,252,4,252||,0,,,,|S||]Pingu|empoleon|leftovers||scald,stealthrock,toxic,hiddenpowerfire|Bold|252,,252,4,,||,0,,,,|S||]I'm Batman|crobat|skyplate|H|bravebird,uturn,toxic,roost|Adamant|252,252,,,4,|||S||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |torkoal|flameplate|1|eruption,solarbeam,fireblast,earthpower|Quiet|248,,,252,8,||,0,,,,0|||]|cresselia|leftovers||trickroom,lunardance,psyshock,icebeam|Relaxed|252,,252,,4,||,0,,,,0|||]|whimsicott|heatrock|H|sunnyday,defog,solarbeam,memento|Timid|248,,,60,,200||,0,,,,|||]|mamoswine|focussash||stealthrock,earthquake,iceshard,endeavor|Jolly|,252,4,,,252|||||]|venusaur|groundiumz|H|earthquake,solarbeam,sludgebomb,growth|Naive|,84,,252,,172|||||]|gurdurr|eviolite|H|poweruppunch,drainpunch,thunderpunch,icepunch|Brave|252,252,,,4,||,,,,,0|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |araquanid|focussash||stickyweb,liquidation,entrainment,toxic|Adamant|252,252,,,4,|||||]|eelektross|assaultvest||knockoff,thunderpunch,uturn,poweruppunch|Adamant|252,252,,,4,|||||]|swellow|flameorb||facade,uturn,quickattack,tailwind|Jolly|,252,4,,,252|||||]|excadrill|smoothrock||ironhead,earthquake,sandstorm,swordsdance|Jolly|,252,,,4,252|||||]|goodra|expertbelt|H|outrage,rockslide,earthquake,aquatail|Adamant|,252,,,4,252|||||]|ferroseed|eviolite||gyroball,stealthrock,leechseed,thunderwave|Impish|252,,252,,4,||,,,,,0|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |araquanid|focussash||stickyweb,liquidation,entrainment,toxic|Adamant|252,252,,,4,|||||]|eelektross|assaultvest||knockoff,thunderpunch,uturn,poweruppunch|Adamant|252,252,,,4,|||||]|swellow|flameorb||facade,uturn,quickattack,tailwind|Jolly|,252,4,,,252|||||]|excadrill|smoothrock||ironhead,earthquake,sandstorm,swordsdance|Jolly|,252,,,4,252|||||]|goodra|expertbelt|H|outrage,rockslide,earthquake,aquatail|Adamant|,252,,,4,252|||||]|ferroseed|eviolite||gyroball,stealthrock,leechseed,thunderwave|Impish|252,,252,,4,||,,,,,0|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |araquanid|focussash||stickyweb,liquidation,entrainment,toxic|Adamant|252,252,,,4,|||||]|eelektross|assaultvest||knockoff,thunderpunch,uturn,poweruppunch|Adamant|252,252,,,4,|||||]|swellow|flameorb||facade,uturn,quickattack,tailwind|Jolly|,252,4,,,252|||||]|excadrill|smoothrock||ironhead,earthquake,sandstorm,swordsdance|Jolly|,252,,,4,252|||||]|goodra|expertbelt|H|outrage,rockslide,earthquake,aquatail|Adamant|,252,,,4,252|||||]|ferroseed|eviolite||gyroball,stealthrock,leechseed,thunderwave|Impish|252,,252,,4,||,,,,,0|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = |araquanid|focussash||stickyweb,liquidation,entrainment,toxic|Adamant|252,252,,,4,|||||]|eelektross|assaultvest||knockoff,thunderpunch,uturn,poweruppunch|Adamant|252,252,,,4,|||||]|swellow|flameorb||facade,uturn,quickattack,tailwind|Jolly|,252,4,,,252|||||]|excadrill|smoothrock||ironhead,earthquake,sandstorm,swordsdance|Jolly|,252,,,4,252|||||]|goodra|expertbelt|H|outrage,rockslide,earthquake,aquatail|Adamant|,252,,,4,252|||||]|ferroseed|eviolite||gyroball,stealthrock,leechseed,thunderwave|Impish|252,,252,,4,||,,,,,0|||
+
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftrosterchecker
+  team = Its Lit|rotomheat|firiumz||voltswitch,thunderbolt,overheat,hiddenpowerice|Timid|,,48,252,,208||,0,,,,|||]FlowerPower|floetteeternal|choicespecs||lightofruin,gigadrain,psychic,hiddenpowerground|Timid|,,96,252,,160||,0,,,,|||]Cleo|weavile|choiceband||iceshard,iciclecrash,knockoff,lowkick|Jolly|,252,,,40,216|||||]Floating Castle|forretress|leftovers||toxic,gyroball,voltswitch,rapidspin|Brave|252,252,,,4,||,,,,,0|||]Digimon|druddigon|leftovers|H|stealthrock,earthquake,dragontail,glare|Impish|252,4,252,,,|||||]280p|keldeo|choicescarf||hydropump,icywind,scald,secretsword|Modest|,,36,252,,220||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = Its Lit|rotomheat|firiumz||voltswitch,thunderbolt,overheat,hiddenpowerice|Timid|,,48,252,,208||,0,,,,|||]FlowerPower|floetteeternal|choicespecs||lightofruin,gigadrain,psychic,hiddenpowerground|Timid|,,96,252,,160||,0,,,,|||]Cleo|weavile|choiceband||iceshard,iciclecrash,knockoff,lowkick|Jolly|,252,,,40,216|||||]Floating Castle|forretress|leftovers||toxic,gyroball,voltswitch,rapidspin|Brave|252,252,,,4,||,,,,,0|||]Digimon|druddigon|leftovers|H|stealthrock,earthquake,dragontail,glare|Impish|252,4,252,,,|||||]280p|keldeo|choicescarf||hydropump,icywind,scald,secretsword|Modest|,,36,252,,220||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\tiers.js:63
+		'Charizard-Mega-X,'
+		^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\mods\draftmons\rulesets.js:3:66)
+
+Additional information:
+  formatid = gen7draftmons
+  team = Boostafio|kartana|choicescarf||smartstrike,leafblade,sacredsword,knockoff|Jolly|,252,,,4,252|||||]Monkey Business|infernape|choicescarf||flareblitz,uturn,closecombat,gunkshot|Jolly|,252,,,4,252|||||]Big Momma|mukalola|assaultvest||pursuit,poisonjab,knockoff,icepunch|Adamant|4,252,,,252,|||||]Bae|piloswine|eviolite|H|iceshard,earthquake,iciclecrash,stealthrock|Adamant|252,252,,,4,|||||]ManBat|noivern|choicespecs||hurricane,uturn,switcheroo,dragonpulse|Timid|,,,252,4,252|||||]Lil Fin|tapufini|leftovers||taunt,naturesmadness,moonblast,defog|Timid|248,,8,,,252||,0,,,,|||
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4190
+			if (this.isWeather('Nightfall') {
+			                                ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4190
+			if (this.isWeather('Nightfall') {
+			                                ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4190
+			if (this.isWeather('Nightfall') {
+			                                ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4190
+			if (this.isWeather('nightfall') {
+			                                ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4190
+			if (this.isWeather('nightfall') {
+			                                ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4190
+			if (this.isWeather('nightfall') {
+			                                ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\pokedex.js:14081
+};
+ ^
+
+SyntaxError: Unexpected token ;
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\pokedex.js:14081
+};
+ ^
+
+SyntaxError: Unexpected token ;
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\pokedex.js:14081
+};
+ ^
+
+SyntaxError: Unexpected token ;
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+ReferenceError: move is not defined
+    at Battle.onModifySpA (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4215:4)
+    at Battle.runEvent (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\battle.js:906:35)
+    at Battle.getDamage (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\battle.js:2273:17)
+    at Battle.moveHit (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\scripts.js:666:18)
+    at Battle.tryMoveHit (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\scripts.js:565:18)
+    at Battle.useMoveInner (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\scripts.js:308:18)
+    at Battle.useMove (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\scripts.js:135:25)
+    at Battle.runMove (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\scripts.js:97:31)
+    at Battle.runAction (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\battle.js:2840:9)
+    at Battle.go (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\battle.js:3062:9)
+
+Additional information:
+  message = >p2 move 2 mega
+  inputLog = 
+>version 5affd18e27005c8e3b13cad54c9adb32f7caf7b6
+>start {"formatid":"gen7ou","seed":[10613,62965,11537,14057]}
+>player p1 {"name":"testrai24","avatar":"170","team":"Spiritomb||duskball|1|stealthrock,willowisp,foulplay,rest|Bold|248,,252,,8,|M|,0,,,,|||]Bisharp||bisharpite||swordsdance,knockoff,suckerpunch,ironhead|Adamant|,252,,,4,252|M||||]Dragonite||darkiniumz|H|honeclaws,dragonrush,earthquake,extremespeed|Adamant|,252,,,4,252|||||"}
+>player p2 {"name":"KuraiTenshi26","avatar":"143","team":"Bisharp||bisharpite||swordsdance,knockoff,suckerpunch,ironhead|Adamant|,252,,,4,252|||||]Lunatone||lunatonite||powergem,shadowball,calmmind,rockpolish|Modest|,,,252,4,252||,0,,,,|||]Chandelure||chandelurite||substitute,fireblast,shadowball,energyball|Timid|,,,252,4,252||,0,,,,|||]Chatot||chatite||boomburst,heatwave,uturn,chatter|Timid|,,,252,4,252|||||"}
+>p1 team 1, 2, 3
+>p2 team 3, 2, 1, 4
+>p1 move stealthrock
+>p2 move fireblast mega
+  log = 
+|player|p1|testrai24|170
+|player|p2|KuraiTenshi26|143
+|teamsize|p1|3
+|teamsize|p2|4
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|seed|10613,62965,11537,14057
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Spiritomb, M|item
+|poke|p1|Bisharp, M|item
+|poke|p1|Dragonite, M|item
+|poke|p2|Bisharp, F|item
+|poke|p2|Lunatone|item
+|poke|p2|Chandelure, F|item
+|poke|p2|Chatot, F|item
+|teampreview
+|
+|start
+|switch|p1a: Spiritomb|Spiritomb, M|303/303
+|switch|p2a: Chandelure|Chandelure, F|261/261
+|-weather|Nightfall|[from] ability: Eternight|[of] p1a: Spiritomb
+|turn|1
+|
+|-mega|p2a: Chandelure|Chandelure|
+|detailschange|p2a: Chandelure|Chandelure-Mega, F
+|move|p2a: Chandelure|Fire Blast|p1a: Spiritomb
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4257
+			move.breaksProtect: true;
+			                  ^
+
+SyntaxError: Unexpected token :
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4257
+			move.breaksProtect: true;
+			                  ^
+
+SyntaxError: Unexpected token :
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\data\abilities.js:4257
+			move.breaksProtect: true;
+			                  ^
+
+SyntaxError: Unexpected token :
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at ModdedDex.loadDataFile (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sim\dex.js:1345:23)
+
+Additional information:
+
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.cluster.on (C:\Users\Aabrar\Documents\Pokemon-Showdown-20180601T132330Z-001\Pokemon-Showdown\sockets.js:76:33)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+    at ChildProcess.worker.process.once (internal/cluster/master.js:185:13)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
