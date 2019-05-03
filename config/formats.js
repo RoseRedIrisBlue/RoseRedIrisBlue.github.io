@@ -42,7 +42,7 @@ let Formats = [
 
 		mod: 'gen7',
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
-		banlist: ['Uber', 'Psychic Surge', 'Damp Rock', 'Kommonium Z', 'Mewnium Z', 'Arena Trap', 'Power Construct', 'Shadow Tag', 'Baton Pass'],
+		banlist: ['Uber', 'Psychic Surge', 'Drizzle ++ Swift Swim', 'Kommonium Z', 'Mewnium Z', 'Arena Trap', 'Power Construct', 'Shadow Tag', 'Baton Pass'],
 	},
 	{
 		name: "[Gen 7] Draftmons",

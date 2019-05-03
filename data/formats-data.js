@@ -2692,7 +2692,7 @@ let BattleFormatsData = {
 			{"generation": 3, "level": 70, "moves": ["blazekick", "slash", "mirrormove", "skyuppercut"], "pokeball": "pokeball"},
 			{"generation": 5, "level": 50, "shiny": 1, "isHidden": false, "moves": ["flareblitz", "highjumpkick", "thunderpunch", "stoneedge"], "pokeball": "cherishball"},
 		],
-		tier: "Uber",
+		tier: "OU",
 		doublesTier: "DUU",
 	},
 	blazikenmega: {
@@ -5795,7 +5795,7 @@ let BattleFormatsData = {
 			{"generation": 7, "level": 60, "shiny": 1, "isHidden": false, "moves": ["earthpower", "rockslide", "earthquake", "sandstorm"]},
 		],
 		eventOnly: true,
-		tier: "Uber",
+		tier: "OU",
 		doublesTier: "DUU",
 	},
 	landorustherian: {
