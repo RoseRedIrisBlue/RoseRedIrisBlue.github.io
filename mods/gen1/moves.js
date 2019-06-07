@@ -755,11 +755,11 @@ let BattleMovedex = {
 	},
 	rockslide: {
 		inherit: true,
-		desc: "Deals damage to a foe. Can flinch",
-		shortDesc: "Deals damage. Can flinch",
+		desc: "Deals damage to a foe.",
+		shortDesc: "Deals damage.",
 		basePower: 85,
 		accuracy: 95,
-		secondary: true,
+		secondary: false,
 		target: "normal",
 	},
 	rockthrow: {
@@ -818,7 +818,7 @@ let BattleMovedex = {
 		desc: "No additional effect.",
 		shortDesc: "No additional effect.",
 		inherit: true,
-		basePower: 100,
+		basePower: 90,
 		accuracy: 90,
 		category: "Physical",
 		pp: 10,
