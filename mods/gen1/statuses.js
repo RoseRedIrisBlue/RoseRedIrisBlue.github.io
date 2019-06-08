@@ -72,7 +72,7 @@ let BattleStatuses = {
 		onStart: function (target) {
 			this.add('-status', target, 'slp');
 			// 1-5 turns
-			this.effectData.startTime = this.random(1, 6);
+			this.effectData.startTime = this.random(1, 5);
 			this.effectData.time = this.effectData.startTime;
 		},
 		onBeforeMovePriority: 10,
@@ -95,8 +95,8 @@ let BattleStatuses = {
 		effectType: 'Status',
 		onStart: function (target) {
 			this.add('-status', target, 'frz');
-			// 1-3 turns
-			this.effectData.startTime = this.random(1, 4);
+			// 1-5 turns
+			this.effectData.startTime = this.random(1, 5);
 			this.effectData.time = this.effectData.startTime;
 		},
 		onBeforeMovePriority: 10,
