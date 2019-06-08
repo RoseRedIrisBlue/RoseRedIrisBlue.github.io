@@ -3953,6 +3953,7 @@ exports.BattleLearnsets = {
 		protect: ["2M"],
 		rage: ["1M"],
 		raindance: ["2M"],
+		recover: ["1L27"],
 		reflect: ["1M"],
 		rest: ["1M", "2M"],
 		return: ["2M"],
