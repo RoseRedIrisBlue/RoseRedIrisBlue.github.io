@@ -339,7 +339,7 @@ let BattleMovedex = {
 	dreameater: {
 		inherit: true,
 		category: "Physical",
-		basePower: 200,
+		basePower: 180,
 		drain: [1, 1],
 		type: "Ghost",
 		onTryHit: function (target) {
