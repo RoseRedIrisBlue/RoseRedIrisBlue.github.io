@@ -817,7 +817,7 @@ let BattleMovedex = {
 	splash: {
 		desc: "No additional effect.",
 		shortDesc: "No additional effect.",
-		inherit: true,
+		inherit: false,
 		basePower: 90,
 		accuracy: 90,
 		category: "Physical",
