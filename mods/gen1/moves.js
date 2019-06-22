@@ -808,18 +808,22 @@ let BattleMovedex = {
 		heal: null,
 		onHit: function (target) {
 			// Fail when health is 255 or 511 less than max
-			if (target.hp === (target.maxhp - 255) || target.hp === (target.maxhp - 511) || target.hp === target.maxhp) {
-				return false;
-			}
+			//if (target.hp === (target.maxhp - 255) || target.hp === (target.maxhp - 511) || target.hp === target.maxhp) {
+			//	return false;
+			//}
 			this.heal(Math.floor(target.maxhp / 2), target, target);
 		},
 	},
 	splash: {
-		desc: "No additional effect.",
-		shortDesc: "No additional effect.",
+		desc: "30% chance to paralyze.",
+		shortDesc: "30% chance to paralyze.",
+		secondary: {
+			chance: 30,
+			status: 'par',
+		},
 		inherit: false,
-		basePower: 90,
-		accuracy: 90,
+		basePower: 60,
+		accuracy: 100,
 		category: "Physical",
 		pp: 10,
 		type: "Flying",
