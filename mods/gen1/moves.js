@@ -994,9 +994,7 @@ let BattleMovedex = {
 	whirlwind: {
 		desc: "No additional effect.",
 		shortDesc: "No additional effect.",
-		inherit: true,
-		desc: "Does nothing.",
-		shortDesc: "Does nothing.",
+		inherit: false,
 		isViable: true,
 		forceSwitch: false,
 		onTryHit: function () {},
