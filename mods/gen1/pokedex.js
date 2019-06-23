@@ -1673,9 +1673,9 @@ exports.BattlePokedex = {
 	mrmime: {
 		num: 122,
 		species: "Mr. Mime",
-		types: ["Electric", "Psychic"],
+		types: ["Psychic", "Electric"],
 		gender: "N",
-		baseStats: {hp: 40, atk: 45, def: 65, spa: 100, spd: 110, spe: 105},
+		baseStats: {hp: 40, atk: 45, def: 65, spa: 110, spd: 110, spe: 105},
 		abilities: {},
 		heightm: 1.3,
 		weightkg: 54.5,
