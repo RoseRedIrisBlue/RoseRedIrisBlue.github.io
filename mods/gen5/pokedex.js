@@ -34,9 +34,9 @@ exports.BattlePokedex = {
 		types: ["Normal"],
 	},
 	clefable: {
-		inherit: false,
+		inherit: true,
 		types: ["Normal"],
-		baseStats: {hp: 95, atk: 70, def: 73, spa: 95, spd: 95, spe: 60},
+		baseStats: {hp: 95, atk: 70, def: 73, spa: 85, spd: 90, spe: 60},
 	},
 	jigglypuff: {
 		inherit: true,
