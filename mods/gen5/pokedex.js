@@ -36,7 +36,7 @@ exports.BattlePokedex = {
 	clefable: {
 		inherit: true,
 		types: ["Normal"],
-		baseStats: {hp: 95, atk: 70, def: 73, spa: 85, spd: 90, spe: 60},
+		//baseStats: {hp: 95, atk: 70, def: 73, spa: 85, spd: 90, spe: 60},
 	},
 	jigglypuff: {
 		inherit: true,
@@ -69,9 +69,13 @@ exports.BattlePokedex = {
 		inherit: true,
 		baseStats: {hp: 80, atk: 110, def: 130, spa: 55, spd: 65, spe: 45},
 	},
+	magneton: {
+		inherit: true,
+		types: ["Electric", "Rock"],
+	},
 	mrmime: {
 		inherit: true,
-		types: ["Psychic"],
+		types: ["Psychic", "Electric"],
 	},
 	articuno: {
 		inherit: true,
