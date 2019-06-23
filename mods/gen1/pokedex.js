@@ -1134,7 +1134,7 @@ exports.BattlePokedex = {
 	magneton: {
 		num: 82,
 		species: "Magneton",
-		types: ["Electric","Rock"],
+		types: ["Electric", "Rock"],
 		gender: "N",
 		baseStats: {hp: 70, atk: 60, def: 95, spa: 120, spd: 120, spe: 70},
 		abilities: {},
