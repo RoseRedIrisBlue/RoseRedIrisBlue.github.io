@@ -1132,6 +1132,7 @@ exports.BattlePokedex = {
 		eggGroups: ["Mineral"],
 	},
 	magneton: {
+		inherit: true,
 		num: 82,
 		species: "Magneton",
 		types: ["Electric", "Rock"],
