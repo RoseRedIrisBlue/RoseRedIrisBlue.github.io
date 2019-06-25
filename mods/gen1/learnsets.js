@@ -665,6 +665,7 @@ exports.BattleLearnsets = {
 		rest: ["1M", "2M"],
 		return: ["2M"],
 		sandattack: ["1L1", "1L5", "2L1", "2L5"],
+		sing: ["1M"],
 		skyattack: ["1M"],
 		sleeptalk: ["2M"],
 		snore: ["2M"],
