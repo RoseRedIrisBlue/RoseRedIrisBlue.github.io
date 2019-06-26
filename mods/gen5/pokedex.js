@@ -11,7 +11,7 @@ exports.BattlePokedex = {
 	},
 	pidgeot: {
 		inherit: true,
-		baseStats: {hp: 83, atk: 80, def: 75, spa: 70, spd: 70, spe: 91},
+		baseStats: {hp: 83, atk: 80, def: 75, spa: 70, spd: 70, spe: 101},
 	},
 	pikachu: {
 		inherit: true,
