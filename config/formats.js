@@ -1585,17 +1585,6 @@ let Formats = [
 		ruleset: ['Pokemon', 'Standard'],
 	},
 	{
-		name: "[gen1] RRIB",
-		threads: [
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3541329/">RBY Ubers Viability Ranking</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/posts/6431045/">RBY Sample Teams</a>`,
-		],
-
-		mod: 'rosered',
-		searchShow: false,
-		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
-	},
-	{
 		name: "[Gen 1] OU (tradeback)",
 		desc: `RBY OU with movepool additions from the Time Capsule.`,
 		threads: [
