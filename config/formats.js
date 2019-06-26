@@ -1585,13 +1585,13 @@ let Formats = [
 		ruleset: ['Pokemon', 'Standard'],
 	},
 	{
-		name: "[rosered] RRIB",
+		name: "[gen1] RRIB",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3541329/">RBY Ubers Viability Ranking</a>`,
 			`&bullet; <a href="https://www.smogon.com/forums/posts/6431045/">RBY Sample Teams</a>`,
 		],
 
-		mod: 'gen1',
+		mod: 'rosered',
 		searchShow: false,
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
 	},
