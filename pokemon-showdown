@@ -7,6 +7,7 @@ true /*
 #
 # As shell script parses lines only when they are needed, nothing after exit 1
 # can possibly cause a syntax error.
+require('newrelic');
 
 if nodepath="$(command -v node || command -v nodejs)"; then
 	exec "$nodepath" "--trace-warnings" "$0" "$@"
