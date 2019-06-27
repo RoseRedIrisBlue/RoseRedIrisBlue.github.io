@@ -9,11 +9,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['My Application'],
+  app_name: ['mcmastercrystallize'],
   /**
    * Your New Relic license key.
    */
-  license_key: 'license key here',
+  license_key: 'd3d66efbf2ae4661c238d8c7df7dd6a3dd200aeb',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
