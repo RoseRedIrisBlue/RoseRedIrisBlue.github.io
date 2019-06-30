@@ -3146,7 +3146,7 @@ exports.BattleLearnsets = {
 		thunderpunch: ["2M"],
 		thunderwave: ["1M"],
 		toxic: ["1M", "2M"],
-		triattack: ["1M"],
+		//triattack: ["1M"],
 		zapcannon: ["2M"],
 	}},
 	machop: {learnset: {
