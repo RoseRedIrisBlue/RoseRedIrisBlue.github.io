@@ -607,10 +607,10 @@ var POKEDEX_RBY = {
 		"t1": "Poison",
 		"t2": "Flying",
 		"bs": {
-			"hp": 75,
-			"at": 80,
-			"df": 70,
-			"sa": 65,
+			"hp": 85,
+			"at": 90,
+			"df": 80,
+			"sa": 75,
 			"sd": 75,
 			"sp": 90,
 			"sl": 75

@@ -64,7 +64,7 @@ var SETDEX_RBY = {
 		"GOAT": {"level": 100, "moves": ["Swords Dance", "Whirlwind", "Razor Leaf", "Slash"]},
 	},
 	"Fearow": {
-		"Dream Eater": {"level": 100, "moves": ["Hypnosis", "Drill Peck", "Tri Attack", "Dream Eater"]},
+		"Hypnosis": {"level": 100, "moves": ["Hypnosis", "Drill Peck", "Tri Attack", "Toxic"]},
 	},
 	"Flareon": {
 		"Bulky Attacker": {"level": 100, "moves": ["Fire Blast", "Body Slam", "Hyper Beam", "Quick Attack"]},
@@ -73,7 +73,7 @@ var SETDEX_RBY = {
 		"Dream Eater": {"level": 100, "moves": ["Hypnosis", "Explosion", "Thunderbolt", "Dream Eater"]},
 	},
 	"Golbat": {
-		"UU Screech": {"level": 100, "moves": ["Screech", "Confuse Ray", "Double-Edge", "Mega Drain"]},
+		"Offensive Tank": {"level": 100, "moves": ["Poison Sting", "Leech Life", "Recover", "Mega Drain"]},
 	},
 	"Golduck": {
 		"Amnesia": {"level": 100, "moves": ["Amnesia", "Blizzard", "Surf", "Tri Attack"]},
@@ -244,7 +244,7 @@ var SETDEX_RBY = {
 		"Offensive Sleep Powder": {"level": 100, "moves": ["Razor Leaf", "Sleep Powder", "Swords Dance", "Acid"]},
 	},
 	"Vileplume": {
-		"UU Swords Dance": {"level": 100, "moves": ["Sleep Powder", "Swords Dance", "Body Slam", "Mega Drain"]},
+		"Bulky Sleeper": {"level": 100, "moves": ["Sleep Powder", "Recover", "Acid", "Mega Drain"]},
 	},
 	"Weezing": {
 		"Standard": {"level": 100, "moves": ["Sludge", "Explosion", "Thunderbolt", "Fire Blast"]},
