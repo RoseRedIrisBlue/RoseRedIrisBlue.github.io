@@ -1706,3 +1706,13 @@ Error: Worker 1 abruptly died with code 3221225786 and signal null
     at emitTwo (events.js:126:13)
     at ChildProcess.emit (events.js:214:7)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:198:12)
+
+Error: Worker 1 abruptly died with code 3221225786 and signal null
+    at EventEmitter.<anonymous> (C:\Users\Aabrar\Desktop\crystallize\mcmastercrystallize\sockets.js:76:33)
+    at EventEmitter.emit (events.js:200:13)
+    at EventEmitter.emit (domain.js:471:20)
+    at ChildProcess.<anonymous> (internal/cluster/master.js:188:13)
+    at Object.onceWrapper (events.js:288:20)
+    at ChildProcess.emit (events.js:200:13)
+    at ChildProcess.EventEmitter.emit (domain.js:471:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)
