@@ -4,6 +4,7 @@
   "description": "The server for the Pokémon Showdown battle simulator",
   "version": "0.11.2",
   "dependencies": {
+    "mongodb": "^3.2.7",
     "newrelic": "^5.10.0",
     "sockjs": "0.3.18"
   },
