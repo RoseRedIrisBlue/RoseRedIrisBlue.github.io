@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "pokemon-showdown",
   "preferGlobal": true,
   "description": "The server for the Pokémon Showdown battle simulator",
@@ -72,7 +71,6 @@
     "eslint": "^4.16.0",
     "mocha": "^4.0.1",
     "typescript": "^2.8.1"
-=======
       "name": "Mathieu Dias-Martins",
       "email": "marty@hisemail.com"
     },
@@ -90,6 +88,5 @@
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-prettier": "^2.3.1",
     "eslint-plugin-promise": "^3.6.0"
->>>>>>> b28792b81f2d0e0ff8ef0270135b4d1a43d62e98
   }
 }
