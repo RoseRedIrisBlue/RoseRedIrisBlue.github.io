@@ -31,7 +31,6 @@
   "author": {
     "name": "Guangcong Luo",
     "email": "guangcongluo@gmail.com",
-=======
   "name": "pokemon-showdown-damage-calc",
   "private": true,
   "description": "The official damage calculator for the Pokémon Showdown battle simulator",
@@ -47,12 +46,10 @@
   "author": {
     "name": "Guangcong Luo",
     "email": "zarel@zarel.com",
->>>>>>> b28792b81f2d0e0ff8ef0270135b4d1a43d62e98
     "url": "http://guangcongluo.com"
   },
   "contributors": [
     {
-<<<<<<< HEAD
       "name": "Cathy J. Fitzpatrick",
       "email": "cathy@cathyjf.com",
       "url": "https://cathyjf.com"
