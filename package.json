@@ -67,9 +67,9 @@
     "@types/nodemailer": "^4.3.0",
     "eslint": "^4.16.0",
     "mocha": "^4.0.1",
-    "typescript": "^2.8.1"
-      "name": "Mathieu Dias-Martins",
-      "email": "marty@hisemail.com"
+    "typescript": "^2.8.1",
+    "name": "Mathieu Dias-Martins",
+    "email": "marty@hisemail.com"
     },
     {
       "name": "Austin Couturier",
