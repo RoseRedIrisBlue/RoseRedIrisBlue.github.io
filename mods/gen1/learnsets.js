@@ -6564,6 +6564,7 @@ exports.BattleLearnsets = {
 		zapcannon: ["2M"],
 	}},
 	flareon: {learnset: {
+		explosion: ["1M"],
 		attract: ["2M"],
 		bide: ["1M"],
 		bite: ["1L40", "1L30", "2L30"],
