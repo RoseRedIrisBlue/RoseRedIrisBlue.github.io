@@ -182,7 +182,7 @@ var POKEDEX_RBY = {
 	},
 	"Charizard": {
 		"t1": "Fire",
-		"t2": "Flying",
+		"t2": "Dragon",
 		"bs": {
 			"hp": 78,
 			"at": 94,
