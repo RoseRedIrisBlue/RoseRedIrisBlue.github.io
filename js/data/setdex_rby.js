@@ -94,7 +94,7 @@ var SETDEX_RBY = {
 		"Mixed Punches": {"level": 100, "moves": ["Submission", "Ice Punch", "Thunder Punch", "Hyper Beam"]},
 	},
 	"Hitmonlee": {
-		"Physical Attacker": {"level": 100, "moves": ["Body Slam", "Hyper Beam", "High Jump Kick", "Seismic Toss"]},
+		"Physical Attacker": {"level": 100, "moves": ["Body Slam", "Double-Edge", "High Jump Kick", "Seismic Toss"]},
 	},
 	"Hypno": {
 		"Dream Eater": {"level": 100, "moves": ["Psychic", "Submission", "Hypnosis", "Dream Eater"]},
