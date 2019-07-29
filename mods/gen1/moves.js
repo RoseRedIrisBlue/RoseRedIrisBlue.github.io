@@ -214,6 +214,7 @@ let BattleMovedex = {
 		desc: "Has a 100% chance to lower the target's Speed by 1 stage.",
 		shortDesc: "100% chance to lower the target's Speed by 1.",
 		basePower: 85,
+		pp: 15,
 		secondary: {
 			chance: 100,
 			boosts: {
