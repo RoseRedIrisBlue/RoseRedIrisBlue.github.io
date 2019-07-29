@@ -91,10 +91,10 @@ var SETDEX_RBY = {
 		"UU Showdown Usage": {"level": 100, "moves": ["Explosion", "Hypnosis", "Thunderbolt", "Psychic"]},
 	},
 	"Hitmonchan": {
-		"Mixed Punches": {"level": 100, "moves": ["Submission", "Ice Punch", "Thunder Punch", "Body Slam"]},
+		"Mixed Punches": {"level": 100, "moves": ["Submission", "Ice Punch", "Thunder Punch", "Hyper Beam"]},
 	},
 	"Hitmonlee": {
-		"Physical Attacker": {"level": 100, "moves": ["Body Slam", "Double-Edge", "High Jump Kick", "Seismic Toss"]},
+		"Physical Attacker": {"level": 100, "moves": ["Body Slam", "Hyper Beam", "High Jump Kick", "Seismic Toss"]},
 	},
 	"Hypno": {
 		"Dream Eater": {"level": 100, "moves": ["Psychic", "Submission", "Hypnosis", "Dream Eater"]},
@@ -223,7 +223,7 @@ var SETDEX_RBY = {
 		"OU Standard": {"level": 100, "moves": ["Blizzard", "Thunderbolt", "Recover", "Thunder Wave"]},
 	},
 	"Tangela": {
-		"Bind": {"level": 100, "moves": ["Bind", "Sleep Powder", "Stun Spore", "Mega Drain"]},
+		"Constrict": {"level": 100, "moves": ["Constrict", "Sleep Powder", "Stun Spore", "Mega Drain"]},
 	},
 	"Tauros": {
 		"OU Standard": {"level": 100, "moves": ["Body Slam", "Hyper Beam", "Earthquake", "Blizzard"]},
