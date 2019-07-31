@@ -5299,7 +5299,7 @@ exports.BattleLearnsets = {
 		zapcannon: ["2M"],
 	}},
 	weezing: {learnset: {
-		blizzard: ["1M"],
+		ember: ["1M"],
 		attract: ["2M"],
 		bide: ["1M"],
 		curse: ["2M"],
