@@ -10,9 +10,9 @@ let BattleFormats = {
 			let problems = [];
 			if (set.species === set.name) delete set.name;
 
-			if (template.gen > this.gen) {
+			/* if (template.gen > this.gen) {
 				problems.push(set.species + ' does not exist in gen ' + this.gen + '.');
-			} else if (template.isNonstandard) {
+			} else  */if (template.isNonstandard) {
 				problems.push(set.species + ' is not a real Pokemon.');
 			}
 			if (set.moves) {
