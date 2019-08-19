@@ -71,6 +71,10 @@ var MOVES_RBY = {
 		bp: 0,
 		type: 'Ghost'
 	},
+	'Constrict': {
+		bp: 85,
+		type: 'Normal'
+	},
 	'Defense Curl': {
 		bp: 0,
 		type: 'Normal'

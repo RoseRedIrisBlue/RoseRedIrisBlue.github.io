@@ -86,7 +86,7 @@ var POKEDEX_RBY = {
 		"t2": "Poison",
 		"bs": {
 			"hp": 65,
-			"at": 90,
+			"at": 100,
 			"df": 40,
 			"sa": 45,
 			"sd": 80,
@@ -148,7 +148,7 @@ var POKEDEX_RBY = {
 			"df": 70,
 			"sa": 95,
 			"sd": 95,
-			"sp": 80,
+			"sp": 70,
 			"sl": 95
 		},
 		"w": 32.0
@@ -182,7 +182,7 @@ var POKEDEX_RBY = {
 	},
 	"Charizard": {
 		"t1": "Fire",
-		"t2": "Flying",
+		"t2": "Dragon",
 		"bs": {
 			"hp": 78,
 			"at": 94,
@@ -449,7 +449,7 @@ var POKEDEX_RBY = {
 		"t2": "Fighting",
 		"bs": {
 			"hp": 65,
-			"at": 83,
+			"at": 93,
 			"df": 57,
 			"sa": 95,
 			"sd": 85,
@@ -607,10 +607,10 @@ var POKEDEX_RBY = {
 		"t1": "Poison",
 		"t2": "Flying",
 		"bs": {
-			"hp": 75,
-			"at": 80,
-			"df": 70,
-			"sa": 65,
+			"hp": 85,
+			"at": 90,
+			"df": 80,
+			"sa": 75,
 			"sd": 75,
 			"sp": 90,
 			"sl": 75
@@ -1050,8 +1050,8 @@ var POKEDEX_RBY = {
 			"df": 57,
 			"sa": 100,
 			"sd": 85,
-			"sp": 93,
-			"sl": 85
+			"sp": 103,
+			"sl": 95
 		},
 		"w": 44.5,
 		"canEvolve": true
@@ -1599,7 +1599,7 @@ var POKEDEX_RBY = {
 			"sa": 80,
 			"sd": 80,
 			"sp": 130,
-			"sl": 90
+			"sl": 100
 		},
 		"w": 95.0
 	},
@@ -1723,8 +1723,8 @@ var POKEDEX_RBY = {
 			"df": 65,
 			"sa": 65,
 			"sd": 80,
-			"sp": 68,
-			"sl": 80
+			"sp": 78,
+			"sl": 90
 		},
 		"w": 39.0
 	},
