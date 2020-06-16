@@ -256,4 +256,17 @@ var SETDEX_RBY = {
 	"Zapdos": {
 		"Mixed Attacker": {"level": 100, "moves": ["Thunderbolt", "Whirlwind", "Thunder Wave", "Agility"]},
 	},
+	"Ampharos": {
+		"Fabio": {"level": 100, "moves": ["Thunderbolt", "Thunder Wave", "Hyper Fang", "Fire Punch"]},
+	},
+	"Forretress": {
+		"Physical Tank": {"level": 100, "moves": ["Pin Missile", "Rock Slide", "Explosion", "Mega Drain"]},
+	},
+	"Zangoose": {
+		"Physical Wallbreaker": {"level": 100, "moves": ["Slash", "Karate Chop", "Thunder Wave", "Seismic Toss"]},
+	},
+	"Seviper": {
+		"Swords Dance Sweeper": {"level": 100, "moves": ["Swords Dance", "Wrap", "Poison Sting", "Earthquake"]},
+		"Mixed Attacker": {"level": 100, "moves": ["Poison Sting", "Glare", "Fire Blast", "Mega Drain"]},
+	},
 };

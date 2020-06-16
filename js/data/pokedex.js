@@ -1,4 +1,60 @@
 var POKEDEX_RBY = {
+ 	"Ampharos": {
+		"t1": "Electric",
+		"t2": "Dragon",
+		"bs": {
+			"hp": 90,
+			"at": 75,
+			"df": 85,
+			"sa": 115,
+			"sd": 115,
+			"sp": 55,
+			"sl": 115
+		},
+		"w": 61.5
+	},
+	"Forretress": {
+		"t1": "Bug",
+		"t2": "Rock",
+		"bs": {
+			"hp": 75,
+			"at": 90,
+			"df": 140,
+			"sa": 60,
+			"sd": 60,
+			"sp": 40,
+			"sl": 60
+		},
+		"w": 125.8
+	},
+	"Zangoose": {
+		"t1": "Normal",
+		"t2": "Fighting",
+		"bs": {
+			"hp": 73,
+			"at": 115,
+			"df": 60,
+			"sa": 60,
+			"sd": 60,
+			"sp": 90,
+			"sl": 60
+		},
+		"w": 40.3
+	},
+	"Seviper": {
+		"t1": "Poison",
+		"t2": "Normal",
+		"bs": {
+			"hp": 73,
+			"at": 100,
+			"df": 60,
+			"sa": 100,
+			"sd": 100,
+			"sp": 65,
+			"sl": 100
+		},
+		"w": 52.5
+	},
 	"Abra": {
 		"t1": "Psychic",
 		"bs": {
