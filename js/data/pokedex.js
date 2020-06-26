@@ -32,7 +32,7 @@ var POKEDEX_RBY = {
 		"t2": "Fighting",
 		"bs": {
 			"hp": 73,
-			"at": 115,
+			"at": 100,
 			"df": 60,
 			"sa": 60,
 			"sd": 60,

@@ -263,7 +263,7 @@ var SETDEX_RBY = {
 		"Physical Tank": {"level": 100, "moves": ["Pin Missile", "Rock Slide", "Explosion", "Mega Drain"]},
 	},
 	"Zangoose": {
-		"Physical Wallbreaker": {"level": 100, "moves": ["Slash", "Karate Chop", "Thunder Wave", "Seismic Toss"]},
+		"Physical Wallbreaker": {"level": 100, "moves": ["Slash", "Submission", "Thunder Wave", "Seismic Toss"]},
 	},
 	"Seviper": {
 		"Swords Dance Sweeper": {"level": 100, "moves": ["Swords Dance", "Wrap", "Poison Sting", "Earthquake"]},
