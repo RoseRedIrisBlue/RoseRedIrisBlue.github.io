@@ -1,4 +1,45 @@
 var POKEDEX_RBY = {
+	"Breloom": {
+		"t1": "Grass",
+		"t2": "Fighting",
+		"bs": {
+			"hp": 60,
+			"at": 130,
+			"df": 80,
+			"sa": 60,
+			"sd": 60,
+			"sp": 70,
+			"sl": 60
+		},
+		"w": 39.2
+	},
+	"Sceptile": {
+		"t1": "Grass",
+		"bs": {
+			"hp": 70,
+			"at": 85,
+			"df": 65,
+			"sa": 105,
+			"sd": 105,
+			"sp": 120,
+			"sl": 105
+		},
+		"w": 52.2
+	},
+	"Gogoat": {
+		"t1": "Grass",
+		"t2": "Ground",
+		"bs": {
+			"hp": 123,
+			"at": 100,
+			"df": 62,
+			"sa": 97,
+			"sd": 87,
+			"sp": 68,
+			"sl": 97
+		},
+		"w": 91.0,
+	},
  	"Ampharos": {
 		"t1": "Electric",
 		"t2": "Dragon",

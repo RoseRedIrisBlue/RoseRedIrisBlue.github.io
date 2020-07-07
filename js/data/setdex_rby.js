@@ -269,4 +269,14 @@ var SETDEX_RBY = {
 		"Swords Dance Sweeper": {"level": 100, "moves": ["Swords Dance", "Wrap", "Poison Sting", "Earthquake"]},
 		"Mixed Attacker": {"level": 100, "moves": ["Poison Sting", "Glare", "Fire Blast", "Mega Drain"]},
 	},
+	"Gogoat": {
+		"GOAT Tank": {"level": 100, "moves": ["Razor Leaf", "Earthquake", "Rock Slide", "Body Slam"]},
+	},
+	"Breloom": {
+		"Offensive Spore": {"level": 100, "moves": ["Spore", "Karate Chop", "Rock Slide", "Body Slam"]},
+		"Swords Dance": {"level": 100, "moves": ["Swords Dance", "Submission", "Rock Slide", "Hyper Beam"]},
+	},
+	"Sceptile": {
+		"SD Cleaner": {"level": 100, "moves": ["Swords Dance", "Earthquake", "Hyper Beam", "Razor Leaf"]},
+	},
 };
